@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Task2 {
 
     public static void main(String[] args) {
-        solution("C:\\Users\\danil\\Downloads\\file1.txt", "C:\\Users\\danil\\Downloads\\file2.txt");
+        solution("C:\\Path\\To\\Dir\\file1.txt", "C:\\Path\\To\\Dir\\file2.txt");
     }
 
     public static void solution(String centerPath, String pointPath){
